@@ -1,0 +1,7 @@
+# System Information - Thu Jul 17 12:18:55 +07 2025
+PLATFORM=wsl
+HOSTNAME=ZedOcean
+USER=zed
+KERNEL=5.15.167.4-microsoft-standard-WSL2
+ARCH=x86_64
+OS_VERSION=Ubuntu 24.04.2 LTS
