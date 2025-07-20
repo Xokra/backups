@@ -1,0 +1,16 @@
+cmake
+curl
+fzf
+git
+git-lfs
+liblua5.3-dev
+neovim
+nodejs
+npm
+python3-pip
+python3.12-venv
+ranger
+stow
+tmux
+tree
+zsh

@@ -1,0 +1,19 @@
+# System Information - Sun Jul 20 21:03:26 +07 2025
+
+
+PLATFORM=wsl
+HOSTNAME=ZedOcean
+
+USER=zed
+
+KERNEL=5.15.167.4-microsoft-standard-WSL2
+ARCH=x86_64
+
+SHELL=/usr/bin/zsh
+BACKUP_DATE=2025-07-20T21:03:26+07:00
+
+
+# Dotfile Dependencies Backup
+
+# This backup contains only packages needed for dotfiles to work
+# System packages and redundancies have been filtered out
