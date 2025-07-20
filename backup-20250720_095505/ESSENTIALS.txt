@@ -1,0 +1,11 @@
+
+# Essential packages to install BEFORE running the restore script
+# These are needed to clone the backup repository and run the restore
+
+
+Platform: wsl
+Essential packages: git curl build-essential unzip wget
+
+
+# Installation commands:
+sudo apt update && sudo apt install -y git curl build-essential unzip wget
