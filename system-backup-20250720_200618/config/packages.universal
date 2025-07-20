@@ -1,0 +1,19 @@
+# Essential packages that exist on all platforms (will be translated)
+neovim
+tmux
+zsh
+
+curl
+wget
+git
+htop
+jq
+
+unzip
+
+python-pip
+nodejs
+npm
+lazygit
+fontconfig
+less
