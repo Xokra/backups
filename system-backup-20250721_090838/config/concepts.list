@@ -1,0 +1,17 @@
+# Core cross-platform concepts
+version-control
+editor
+shell
+multiplexer
+git-ui
+runtime-js
+runtime-python
+downloader
+json-parser
+monitor
+archiver
+dotfile-manager
+fuzzy-finder
+# Platform-specific concepts
+font-system
+pager
