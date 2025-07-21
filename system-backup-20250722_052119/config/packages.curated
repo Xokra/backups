@@ -1,0 +1,16 @@
+curl
+fontconfig
+git
+htop
+jq
+lazygit
+less
+neovim
+nodejs
+python-pip
+stow
+tmux
+unzip
+wget
+zoxide
+zsh
